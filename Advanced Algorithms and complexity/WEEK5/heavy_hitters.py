@@ -5,23 +5,6 @@ import statistics as stat
 import math
 import numpy as np
 
-"""
-Coursera/Advanced Algorithms and Complexity/Week 5 (optional)/Problem 1:
-Nice vs Naughty (Heavy Hitters Problem using Count Sketch streaming algorithm)
-Grading: 'Good job! (Max time used: 38.57/240.00, max memory used: 8785920/52428800.)'
-Author: Andrii Shostatskyi
-Email: shostatskyi.andrii@gmail.com
-Respect Coursera Honor Code
-Copyright © 2018. All rights reserved
-"""
-
-"""
-Useful links:
- - https://stackoverflow.com/questions/6811351/explaining-the-count-sketch-algorithm
- - https://en.wikipedia.org/wiki/Universal_hashing
- - https://en.wikipedia.org/wiki/Count%E2%80%93min_sketch
- - https://www.cse.iitb.ac.in/~nutan/courses/cs602-13/notes/lec6.pdf
-"""
 
 
 class hash_function:
