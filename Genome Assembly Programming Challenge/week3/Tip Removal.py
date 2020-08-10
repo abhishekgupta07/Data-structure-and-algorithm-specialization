@@ -1,15 +1,5 @@
 # python3
 
-"""
-Coursera/Genome Assembly Programming Challenge/Week 3/Problem 4:
-Tip Removal (in de Bruijn graph)
-Grading: 'Good job! (Max time used: 0.24/100.00, max memory used: 21770240/536870912.)'
-Author: Andrii Shostatskyi
-Email: shostatskyi.andrii@gmail.com
-Respect Coursera Honor Code
-Copyright © 2018. All rights reserved
-"""
-
 import sys
 import itertools
 
